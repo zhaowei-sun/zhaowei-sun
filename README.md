@@ -5,12 +5,12 @@
 </a>
 
 ---
+
 ### 🌱 About :
-<div align="center">
-      <p> Full-Stack Software Engineer | Open Source Enthusiast </p>
-      - 🌥 I’m currently working on Nimbus, a open-source AWS serverless components monitoring tool.
-      - 👩‍🎤 Let's chat about TypeScript, GraphQL, AWS, React and emerging front-end frameworks!
-</div>
+Full-Stack Software Engineer | Open Source Enthusiast
+- 🌥 I’m currently working on Nimbus, a open-source AWS serverless components monitoring tool.
+- 👩‍🎤 Let's chat about TypeScript, GraphQL, AWS, React and other emerging front-end frameworks!
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
