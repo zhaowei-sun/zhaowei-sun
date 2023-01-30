@@ -6,9 +6,11 @@
 
 ---
 ### 🌱 About :
-
-
-    
+<div align="center">
+      <p> Full-Stack Software Engineer | Open Source Enthusiast </p>
+      - 🌥 I’m currently working on Nimbus, a open-source AWS serverless components monitoring tool.
+      - 👩‍🎤 Let's chat about TypeScript, GraphQL, AWS, React and emerging front-end frameworks!
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -29,19 +31,4 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
   <img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/electron/electron-original-wordmark.svg" title="Electron" alt="Electron" width="80" height="80"/>
 </div>
-
-<!--
-**zhaowei-sun/zhaowei-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
