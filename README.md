@@ -6,17 +6,6 @@
 </div>
 
 ---
-
-<div align="center">
-<h3> 🌱 About </h3> 
-      <p> Full-Stack Software Engineer | Open Source Enthusiast </p>
-      <div aligh="center">
-            <p> - 🌥 I’m currently working on Nimbus, a open-source AWS serverless components monitoring tool.</p>
-            <p> - 👩‍🎤 Let's chat about TypeScript, GraphQL, AWS, React and other emerging front-end frameworks!</p>
-      </div>
-</div>
-
----
 <div align="center">
       <h3> :hammer_and_wrench: Languages and Tools </h3>
       <div align="center" style="display: flex; align-items: center;">
